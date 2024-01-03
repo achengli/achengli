@@ -1,14 +1,11 @@
 
 
-<center><h1>Profile presentation</h1></center>
+<center><h1>Who I am</h1></center>
 
-**<center> Hello friend ! </center>**
-<br>
 
 <p class='pp' style="text-align: center; background-color: rgb(34,4,12); border-radius: .3em; padding: .5em;">
-I'm <b>Yassin</b>, telecomunications engineer and philosopher at times.<br>
-I love writing code for impressive projects that respect the freedoms of free software.<br><br>
-My main software tool is <b><a href="https://www.vim.org/">Vim</a></b> however I often use <b><a href="https://www.gnu.org/software/emacs/">GNU Emacs</a></b> to create rich documents with <b><a href="https://orgmode.org/">org-mode</a></b>.<br>
+I'm <b>Yassin</b>, A telecommunications engineer and philosopher at times. I love writing code for impressive projects that respects the <b>FOSS</b> purposes.<br><br>
+The main software tool with I get the job done is <b><a href="https://www.vim.org/">Vim</a></b>, however I often use <b><a href="https://www.gnu.org/software/emacs/">GNU Emacs</a></b> to create and edit rich styled and formatted documents with the help of the Emacs package <b><a href="https://orgmode.org/">org-mode</a></b>.<br>
 </p>
 
 
@@ -23,7 +20,7 @@ My main software tool is <b><a href="https://www.vim.org/">Vim</a></b> however I
 <br>
 
 <p class='pp' style="text-align: center; background-color: rgb(34,4,12); border-radius: .3em; padding: .5em;">
-I have many hobbies and among them I love researching scientific topics. <br>I like to participate in scientific projects and also contribute new ideas, not just scientific, for the community.
+I have many hobbies and among them I love researching scientific topics. I love get into new projects and contribute on them with new ideas.
 </p>
 
 <center>
