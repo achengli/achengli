@@ -12,8 +12,8 @@ The main software tool with I get the job done is <b><a href="https://www.vim.or
 
 <center>
 <nav>
-<a href='https://www.vim.org' style="background: none; border:none";><img src='https://www.vim.org/images/vim_header.gif' style="margin: auto;"></img></a><br><br>
-<a href='https://www.gnu.org/software/emacs'><img src='https://www.gnu.org/software/emacs/images/gnu.transparent.png' style='border-radius:50%; margin: auto; padding: .4em; background-color: white'></img></a><br>
+<a href='https://www.vim.org' style="background: none; border:none";><img src='./assets/vim-editor.png' style="margin: auto;"></img></a><br><br>
+<a href='https://www.gnu.org/software/emacs'><img src='./assets/gnu_white.svg' style='margin: auto; padding: .4em; background-color: white'></img></a><br>
 <a href='https://orgmode.org'><img src='https://orgmode.org/resources/img/org-mode-unicorn.svg'></img></a>
 </nav>
 </center>
@@ -25,5 +25,4 @@ I have many hobbies and among them I love researching scientific topics. I love 
 
 <center>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achengli&show_icons=true&locale=en&layout=compact" alt="achengli" /></p></center>
-
 
